@@ -1,5 +1,5 @@
 
-console.log('程序开始运行，不要瞎几把关闭')
+console.log('程序开始运行，不要瞎关闭')
 //爬虫利器puppeteer
 const puppeteer = require('puppeteer');
 //处理用户输入的模块
